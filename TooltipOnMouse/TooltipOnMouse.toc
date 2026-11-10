@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Tooltip On Mouse
+## Notes: Shows the tooltip next to your mouse, on the side you choose. Type /tom for the menu.
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\TooltipOnMouse\icon.tga
+## SavedVariables: TooltipOnMouseDB
+
+TooltipOnMouse.lua
