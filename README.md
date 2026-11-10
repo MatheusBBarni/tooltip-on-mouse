@@ -18,6 +18,10 @@ Hover over a mob, a corpse or a button and the tooltip appears beside your curso
 
 ## Installation
 
+The easiest way is to install **[Tooltip On Mouse from CurseForge](https://www.curseforge.com/wow/addons/tooltip-on-mouse)** with the CurseForge app.
+
+To install it manually:
+
 1. Close the game, or log out to the character select screen.
 2. Copy the `TooltipOnMouse` folder into your AddOns folder:
 
